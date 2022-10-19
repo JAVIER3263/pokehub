@@ -1,0 +1,9 @@
+{
+"Medicina":[
+  {"id":"0","name":"Aspirina", "description":"Tableta, para aliviar el dolor de cabeza y dolores musculares."},
+  {"id":"1","name":"Seldamerck", "description":"Tableta, tratamiento sintomático de algunas molestias del resfriado común o gripe. Dolor, fiebre y congestión nasal."},
+  {"id":"2","name":"Tabcin", "description":"Tabletas, ayuda a aliviar los síntomas del resfriado.},
+  {"id":"3","name":"Tempra", "description":"TabletaS, para dolor de cabeza, fiebre"},  
+  {"id":"4","name":"Omeprazol", "description":"Jarabe, se usa para tratar la acidez estomacal frecuente.},
+  ]
+}
